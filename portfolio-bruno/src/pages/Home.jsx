@@ -86,8 +86,8 @@ function Home() {
           <span className="w-12 h-[2px] bg-brandOrange"></span> Sobre Mim
         </h2>
         <p className="max-w-3xl text-center text-xl text-lightGray leading-relaxed font-light mb-12">
-          Desenvolvedor Back-end Júnior com base em Python, Java e Cloud, especializado em automação, integração de APIs e engenharia de dados.
-          Busco elevar meu nível técnico rumo ao FullStack através de metodologias ágeis e aprendizado contínuo.
+          Desenvolvedor Back-end Júnior com base em Python, Java e Cloud, integração de APIs e engenharia de dados.
+          Busco elevar meu nível técnico através de metodologias ágeis e aprendizado contínuo.
           Além do código, mantenho foco constante na criação de sistemas eficientes e no aprimoramento do inglês para solucionar desafios complexos e conexões globais.
         </p>
         
