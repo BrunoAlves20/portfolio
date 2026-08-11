@@ -128,7 +128,7 @@ function Home() {
         <div className="max-w-5xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-16">Stack Tecnológica</h2>
           <div className="flex flex-wrap justify-center gap-4">
-            {['Java', 'Python', 'Linux', 'AWS', 'SQL', 'Generative AI', 'Cobol'].map((skill) => (
+            {['Java', 'Python', 'Linux', 'AWS', 'SQL', 'Generative AI', 'Mobile'].map((skill) => (
               <div key={skill} className="group relative">
                 <div className="absolute -inset-0.5 bg-gradient-to-r from-brandOrange to-brandRed rounded-xl blur opacity-25 group-hover:opacity-100 transition duration-1000"></div>
                 <div className="relative bg-darkBg border border-white/10 px-8 py-4 rounded-xl text-offWhite font-medium">
